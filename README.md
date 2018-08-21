@@ -41,3 +41,33 @@ Latihan 10
 
 Latihan 11
 ![Latihan 11](https://github.com/Syauqii/Jobsheet1/blob/master/lat11.png)
+
+
+
+Praktikum 1 
+![Latihan 1](https://github.com/Syauqii/Jobsheet1/blob/master/pra1.png)
+
+
+Praktikum 2 
+![Latihan 2](https://github.com/Syauqii/Jobsheet1/blob/master/pra2.png)
+
+
+Praktikum 3 
+![Latihan 3](https://github.com/Syauqii/Jobsheet1/blob/master/pra3.png)
+
+
+
+Latihan 1 modul lanjutan
+![Latihan 1 lanjutan](https://github.com/Syauqii/Jobsheet1/blob/master/lat11l.png)
+
+
+Latihan 2 modul lanjutan
+![Latihan 2 lanjutan](https://github.com/Syauqii/Jobsheet1/blob/master/lat12l.png)
+
+
+Latihan 3 modul lanjutan
+![Latihan 3 lanjutan](https://github.com/Syauqii/Jobsheet1/blob/master/lat13l.png)
+
+
+Latihan 4 modul lanjutan
+![Latihan 4 lanjutan](https://github.com/Syauqii/Jobsheet1/blob/master/lat14l.png)
