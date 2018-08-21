@@ -58,15 +58,15 @@ Praktikum 3
 
 
 Latihan 1 modul lanjutan
-![Latihan 1 lanjutan](https://github.com/Syauqii/Jobsheet1/blob/master/lat11l.png)
+![Latihan 1 lanjutan](https://github.com/Syauqii/Jobsheet1/blob/master/lat1l.png)
 
 
 Latihan 2 modul lanjutan
-![Latihan 2 lanjutan](https://github.com/Syauqii/Jobsheet1/blob/master/lat12l.png)
+![Latihan 2 lanjutan](https://github.com/Syauqii/Jobsheet1/blob/master/lat2l.png)
 
 
 Latihan 3 modul lanjutan
-![Latihan 3 lanjutan](https://github.com/Syauqii/Jobsheet1/blob/master/lat13l.png)
+![Latihan 3 lanjutan](https://github.com/Syauqii/Jobsheet1/blob/master/lat3l.png)
 
 
 Latihan 4 modul lanjutan
