@@ -70,4 +70,4 @@ Latihan 3 modul lanjutan
 
 
 Latihan 4 modul lanjutan
-![Latihan 4 lanjutan](https://github.com/Syauqii/Jobsheet1/blob/master/lat14l.png)
+![Latihan 4 lanjutan](https://github.com/Syauqii/Jobsheet1/blob/master/lat4l.png)
