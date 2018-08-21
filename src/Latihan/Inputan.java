@@ -5,12 +5,13 @@
  */
 package Latihan;
 
-import java.util.Scanner;
+
 
 /**
  *
  * @author SYSTEM
  */
+import java.util.Scanner;
 public class Inputan {
     public static void main (String[] args){
         Scanner masukan = new Scanner(System.in);
